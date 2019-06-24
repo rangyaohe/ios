@@ -10,6 +10,22 @@
             <key>url</key>
             <string>http://10.10.40.5:1000/handlebars/ios/govaas.ipa</string>
         </dict>
+        <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>https://aeotest.sipac.gov.cn/ios/512.png</string>
+        </dict>
+        <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>https://aeotest.sipac.gov.cn/ios/57.png</string>
+        </dict>
     </array>
     <key>metadata</key>
     <dict>
